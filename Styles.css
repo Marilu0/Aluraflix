@@ -1,0 +1,26 @@
+body {
+    color:beige;
+    background:brown;
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 28px;
+    font-size: 25px;
+}
+
+section{
+    padding-bottom: 8px;
+    padding-top: 80px;
+   display:flex;
+   justify-content:center  
+}
+ .chamada-texto{
+    margin-right: 5%;
+ }
+
+ img{
+    height: 260px;
+ }
+
+ 
